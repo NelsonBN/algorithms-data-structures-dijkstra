@@ -70,9 +70,9 @@ pip install matplotlib
 
 ## References
 
+* [Other algoritmos & Data Structures](https://github.com/NelsonBN/algorithms-data-structures)
 * [usfca.edu](https://www.cs.usfca.edu/~galles/visualization/Dijkstra.html)
 * [Pseudocode diagram](https://whimsical.com/djikstra-ULBhe3Sp9aVMKBzBiNNQLN)
-* [Java implementation](https://github.com/giovannymassuia/algorithms/tree/main/dijkstra)
 
 
 
